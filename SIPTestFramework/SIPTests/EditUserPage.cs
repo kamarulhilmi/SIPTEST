@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SIPTests
 {
-    public class EditUserPage : Browser
+    public class EditUserPage
     {
         private static int PAGE_LOAD_TIMEOUT = 10;
 
