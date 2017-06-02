@@ -1,0 +1,10 @@
+c:\users\reg-lpt-077\documents\visual studio 2015\Projects\SIPTestFramework\SIPTestFramework\bin\Debug\SIPTestFramework.exe.config
+c:\users\reg-lpt-077\documents\visual studio 2015\Projects\SIPTestFramework\SIPTestFramework\bin\Debug\SIPTestFramework.exe
+c:\users\reg-lpt-077\documents\visual studio 2015\Projects\SIPTestFramework\SIPTestFramework\bin\Debug\SIPTestFramework.pdb
+c:\users\reg-lpt-077\documents\visual studio 2015\Projects\SIPTestFramework\SIPTestFramework\bin\Debug\WebDriver.dll
+c:\users\reg-lpt-077\documents\visual studio 2015\Projects\SIPTestFramework\SIPTestFramework\bin\Debug\WebDriver.Support.dll
+c:\users\reg-lpt-077\documents\visual studio 2015\Projects\SIPTestFramework\SIPTestFramework\bin\Debug\WebDriver.xml
+c:\users\reg-lpt-077\documents\visual studio 2015\Projects\SIPTestFramework\SIPTestFramework\bin\Debug\WebDriver.Support.xml
+c:\users\reg-lpt-077\documents\visual studio 2015\Projects\SIPTestFramework\SIPTestFramework\obj\Debug\SIPTestFramework.csprojResolveAssemblyReference.cache
+c:\users\reg-lpt-077\documents\visual studio 2015\Projects\SIPTestFramework\SIPTestFramework\obj\Debug\SIPTestFramework.exe
+c:\users\reg-lpt-077\documents\visual studio 2015\Projects\SIPTestFramework\SIPTestFramework\obj\Debug\SIPTestFramework.pdb
